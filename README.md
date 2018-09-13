@@ -3,6 +3,12 @@ Created by Yoctobyte and MrJoCrafter
 
 Changelog:
 
+v3.2:
+- Add mountain biome
+- Add deep ocean biome 
+- Add darkgrass biome
+- Fix the deserts and winter next to each other (mass hysteria!)
+
 v3.1:
 - Add temperature map
 - Add desert biome
