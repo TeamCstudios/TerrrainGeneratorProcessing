@@ -3,6 +3,9 @@ Created by Yoctobyte and MrJoCrafter
 
 Changelog:
 
+v4.0:
+- Add presets
+
 v3.2:
 - Add mountain biome
 - Add deep ocean biome 
@@ -27,3 +30,4 @@ v2.0:
 v1.0:
 - Make cool map
 - Add plains biome
+- Add ocean biome
