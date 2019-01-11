@@ -3,6 +3,11 @@ Created by Yoctobyte and MrJoCrafter
 
 Changelog:
 
+v4.1:
+- Gave the forest a compound appearance.
+- Added the 'Random' preset
+- Added Volcano Biome.
+
 v4.0:
 - Add presets
 
