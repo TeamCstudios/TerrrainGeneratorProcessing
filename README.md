@@ -1,8 +1,13 @@
 # Terrrain Generator for Processing
 Created by Yoctobyte and MrJoCrafter
 
-Changelog:
+### 3D Changelog:
 
+v2.1.0:
+- Made a new, 3D map!
+- Reverted to about v2.0 levels of complexity on the map itself.
+
+### 2D Changelog:
 v4.1:
 - Gave the forest a compound appearance.
 - Added the 'Random' preset
