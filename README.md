@@ -2,6 +2,8 @@
 Created by Yoctobyte and MrJoCrafter
 
 ### 3D Changelog:
+v2.2.0:
+- Added mountain biome
 
 v2.1.0:
 - Made a new, 3D map!
