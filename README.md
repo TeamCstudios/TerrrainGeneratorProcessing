@@ -2,6 +2,10 @@
 Created by Yoctobyte and MrJoCrafter
 
 ### 3D Changelog:
+v2.3.0:
+- Desert biome added
+- Improved mountains
+
 v2.2.0:
 - Added mountain biome
 
