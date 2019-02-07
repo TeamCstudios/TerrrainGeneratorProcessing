@@ -2,6 +2,11 @@
 Created by Yoctobyte and MrJoCrafter
 
 ### 3D Changelog:
+
+v2.4.0
+- Fix bugs
+- Add stone beaches
+
 v2.3.0:
 - Desert biome added
 - Improved mountains
