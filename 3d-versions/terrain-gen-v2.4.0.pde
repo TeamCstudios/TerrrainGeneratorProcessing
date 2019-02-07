@@ -4,7 +4,7 @@
 
 int cols,rows,scl=14,w=2200,h=2000;
 float[][] terrain;
-float f,R,G,B,z,hsd=1,z0,hs;
+float f,R,G,B,z,hsd=1.8,z0,hs;
 float xb,yb;
 float bi;
 void setup(){
